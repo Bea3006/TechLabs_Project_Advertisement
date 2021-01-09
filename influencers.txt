@@ -1,7 +1,7 @@
 Username	Category	#Followers	#Followees	#Posts
 =======================================================================
-makeupbynvs	beauty	1432	1089	363
-jaquelinevandoski	beauty	137600	548	569
+makeupbynvs	by	1432	1089	363
+jaquelinevandoskiauty	beauty	137600	548	569
 anisaartistry	beauty	64644	289	391
 rubina_muartistry	beauty	496406	742	887
 beautyxabbi	beauty	2050	1423	751
